@@ -30,7 +30,7 @@ Az oldal célja, hogy egy helyen, áttekinthető módon mutassa be az összes ak
 
 | Projekt | Leírás |
 |--------|--------|
-| **Bazsi BAR** | Italraktár és fogyasztás nyilvántartó rendszer |
+| **XXX BAR** | Italraktár és fogyasztás nyilvántartó rendszer |
 | **Mini Dashboard** | Élő adatok, színkódolt mutatók, dinamikus felület |
 | **Mini J.A.R.V.I.S.** | Árfigyelő rendszer Excelből, adatbáziskezeléssel |
 | *Coming Soon* | Új Excel-alapú rendszer előkészületben... |
